@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.Form1.resources
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.AssemblyInfo.cs
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\heat\bin\Debug\net9.0-windows\heat.exe
+C:\Users\Dell\source\repos\heat\bin\Debug\net9.0-windows\heat.deps.json
+C:\Users\Dell\source\repos\heat\bin\Debug\net9.0-windows\heat.runtimeconfig.json
+C:\Users\Dell\source\repos\heat\bin\Debug\net9.0-windows\heat.dll
+C:\Users\Dell\source\repos\heat\bin\Debug\net9.0-windows\heat.pdb
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.dll
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\refint\heat.dll
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.pdb
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\heat.genruntimeconfig.cache
+C:\Users\Dell\source\repos\heat\obj\Debug\net9.0-windows\ref\heat.dll
