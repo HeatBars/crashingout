@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.Form1.resources
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.AssemblyInfo.cs
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\fix\bin\Debug\net9.0-windows\fix.exe
+C:\Users\Dell\source\repos\fix\bin\Debug\net9.0-windows\fix.deps.json
+C:\Users\Dell\source\repos\fix\bin\Debug\net9.0-windows\fix.runtimeconfig.json
+C:\Users\Dell\source\repos\fix\bin\Debug\net9.0-windows\fix.dll
+C:\Users\Dell\source\repos\fix\bin\Debug\net9.0-windows\fix.pdb
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.dll
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\refint\fix.dll
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.pdb
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\fix.genruntimeconfig.cache
+C:\Users\Dell\source\repos\fix\obj\Debug\net9.0-windows\ref\fix.dll
